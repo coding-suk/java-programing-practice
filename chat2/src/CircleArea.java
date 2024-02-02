@@ -1,4 +1,4 @@
-public class CircleArea extends Main{
+public class CircleArea {
     public CircleArea() {
         final double PI = 3.14;
 
