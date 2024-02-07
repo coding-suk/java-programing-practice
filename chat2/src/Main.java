@@ -3,7 +3,8 @@ public class Main {
 //        new CircleArea();
 //        new ArithmeticOperator();
 //        new Condition();
-        Example example = new Example();
+//        Example example = new Example();
+        new NestedIf();
 
 
     }
