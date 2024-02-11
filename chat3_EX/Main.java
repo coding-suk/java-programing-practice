@@ -3,6 +3,7 @@ public class Main {
 //        new WhileSample();
  //       new NestedLoop();
  //       new ArrayAccess();
-        new ArrayLength();
+    //    new ArrayLength();
+        new foreachEx();
     }
 }
