@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        new WhileSample();
+//        new WhileSample();
+ //       new NestedLoop();
+        new ArrayAccess();
     }
 }
