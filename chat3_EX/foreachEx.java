@@ -1,5 +1,5 @@
 public class foreachEx {
-    enum Week {월, 화, 수, 목, 금, 토, 일}
+    enum Week {월, 화, 수, 목, 금, 토, 일} // enum = 나열 타입
     public foreachEx() {
 //        int[] n = {1, 2, 3, 4, 5};
 //        int sum = 0;
