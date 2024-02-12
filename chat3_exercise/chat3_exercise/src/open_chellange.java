@@ -27,11 +27,7 @@ public class open_chellange {
                 if (text.equals("n")) {
                     break;
                 }
+            }
         }
-
-
-    }
-
-
     }
 }
