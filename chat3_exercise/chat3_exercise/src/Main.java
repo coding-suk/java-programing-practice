@@ -7,6 +7,7 @@ public class Main {
         //new exercise3();
         //new exercise4();
         //new exercise5();
-        new exercise6();
+        //new exercise6();
+        new exercise7();
     }
 }
