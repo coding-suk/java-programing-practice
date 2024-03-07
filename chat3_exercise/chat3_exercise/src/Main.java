@@ -10,6 +10,11 @@ public class Main {
         //new exercise6();
         //new exercise7();
        // new exercise8();
-        new exercise9();
+        //new exercise9();
+        //new exercise10();
+        //new exercise13();
+        //new exercise14();
+        //new exercise15();
+        new exercise16();
     }
 }
