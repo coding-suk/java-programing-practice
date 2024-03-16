@@ -27,6 +27,7 @@ public class Figure {
     class CircleApp {
         int radius;
         String name;
+
         public CircleApp() { } // 이너클래스의 생성자
         public double getArea() {
             return 3.14*radius*radius;

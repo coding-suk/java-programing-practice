@@ -2,7 +2,7 @@ public class Circle {
     int radius;
     String name;
     public Circle() {
-        CircleAp pizza = new CircleAp(10, "자바피자");
+        CircleAp pizza = new CircleAp(10, "자바피자"); // 생성자 호출
 
         double area = pizza.getArea();
         System.out.println(pizza.name + "의 면적은 " + area);
