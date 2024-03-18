@@ -3,6 +3,10 @@ public class Main {
         //new Figure();
         //new Circle();
         //new Book();
-        new useThis();
+        //new useThis();
+        //new useThisConstructor_Ex1();
+        //new useThisConstructor_Ex2();
+        //new objectArray();
+        new objectArray_Ex();
     }
 }
